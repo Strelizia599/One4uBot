@@ -17,7 +17,7 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Hallo, budayakan mengucapkan salam.`\n"
+    "`Halo, budayakan mengucapkan salam.`\n"
     "`Mohon tunggu sampai saya membalas chat anda`\n"
     "`Dimohon bersabar..`\n"
     "`SPAM=BLOCK!.`\n\n"
